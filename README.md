@@ -12,6 +12,7 @@ An end-to-end Power BI analytics project evaluating food delivery order performa
 ![Quick Bite Dashboard](Quick_Bite_Dashbord_Image.png)
 
 Dashbord <a href="https://github.com/spvertex11-data/Quick_Bite_Food_Delivery/blob/main/Quick_Bite_Food_Delivery_Dashbord.pbix"</a>
+Sales_Data <a href="https://github.com/spvertex11-data/Quick_Bite_Food_Delivery/blob/main/Quick_Bite.xlsx"</a>
 
 ---
 
