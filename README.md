@@ -30,7 +30,18 @@ The report uses a **Star Schema** to enable efficient aggregation and filtering 
 
 * **Fact Table:** `Sales Data` (Order IDs, Order Dates, Quantities, Delivery Status, Payment Methods)
 * **Dimension Tables:**
-* image <img width="1917" height="1077" alt="Screenshot 2026-07-27 104743" src="https://github.com/user-attachments/assets/7823da9c-9881-4f59-93c7-0ffac70232ca" />
+* Table Image 1 <img width="1917" height="1077" alt="Screenshot 2026-07-27 104743" src="https://github.com/user-attachments/assets/7823da9c-9881-4f59-93c7-0ffac70232ca" />
+* Table Image 2 <img width="1917" height="1075" alt="Screenshot 2026-07-27 104640" src="https://github.com/user-attachments/assets/d35ba149-2712-49ca-b6d4-7234508738bf" />
+
+* Table Image 3 <img width="1917" height="687" alt="Screenshot 2026-07-27 104728" src="https://github.com/user-attachments/assets/f9ef19e0-8370-40f0-9367-5c6cccffbe7c" />
+
+* Relation Ship Image 4 <img width="1907" height="1077" alt="Screenshot 2026-07-27 104545" src="https://github.com/user-attachments/assets/4686eb53-d7bf-41ac-9275-cc1e83adce60" />
+
+
+
+
+
+
 
   * `Customer Details` (`customer_id`, `customer_name`, `member_Type`)
   * `Food_Details` (`Fooditem`, `Food`, `Type`)
